@@ -1,0 +1,3 @@
+dependencies:
+  tm1637:
+    path: ..
